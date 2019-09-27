@@ -1,6 +1,6 @@
 ---
 title: About the Robot
-parent: 2019 Tech Binder
+parent: 2019: Destination: Deep Space Tech Binder
 has_children: false
 nav_order: 1
 ---

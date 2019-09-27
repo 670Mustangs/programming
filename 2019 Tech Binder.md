@@ -4,9 +4,10 @@ has_children: true
 nav_order: 2
 ---
 
-# Documentation and concepts behind our 2019 code
+# 2019: Destination: Deep Space Tech Binder
 
-Test this
+This is where you'll find an overview of all the math, concepts, tools, sensors, algorithms, and procedures that went into 
+writing the code that controls this 105-pound beast here:
 
 
-blah
+[2019 robot](https://camo.githubusercontent.com/fea1a03bd4cfde9888e116fe1443478990d36c8c/68747470733a2f2f692e696d6775722e636f6d2f7a4544684c7176682e6a7067)

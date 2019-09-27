@@ -1,10 +1,12 @@
 ---
-title: 'Introduction - About the Robot'
-
-layout: nil
+title: About the Robot
+parent: 2019 Tech Binder
+has_children: false
+nav_order: 1
 ---
 
-### Quick Robot Specs
+
+# Quick Robot Specs
 
 **Robot Name:** The Flex
 
@@ -52,6 +54,7 @@ layout: nil
 **Grab cargo:**
 - Loading Station
 - Depot/Ground
+
 
 
 

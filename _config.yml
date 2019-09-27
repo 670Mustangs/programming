@@ -1,6 +1,4 @@
----
-exclude: ['README.markdown']
-permalink: ':title'
-pygments: true
-safe: false
-title: 'Tech Team's Deep Space Docs'
+title: "Team 670 Code Resources"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false

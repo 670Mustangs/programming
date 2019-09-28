@@ -1,5 +1,5 @@
 ---
-title: 2019: Destination: Deep Space Tech Binder
+title: 2019 Tech Binder
 has_children: true
 nav_order: 2
 ---
